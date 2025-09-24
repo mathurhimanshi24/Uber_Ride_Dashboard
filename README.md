@@ -17,8 +17,8 @@ The dataset can be used for:
 - Revenue and payment analysis.
 
 ## Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/mathurhimanshi24/Uber_Ride_Dashboard/blob/main/Uber%20NCR%20insights.pdf)
 
 ## Files
-- `dashboard/Loan_Collection_Dashboard.pbix` → Power BI file
-- `data/sample_data.csv` → Sample dataset for testing
+- https://github.com/mathurhimanshi24/Uber_Ride_Dashboard/blob/main/Uber%20NCR%20Insights.pbit  → Power BI file 
+- https://github.com/mathurhimanshi24/Uber_Ride_Dashboard/blob/main/ncr_ride_bookings.csv  → Sample dataset for testing
